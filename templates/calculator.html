@@ -1,0 +1,107 @@
+{% extends "layout.html" %} {% block myscripts %}
+
+<style>
+    /* Chrome, Safari, Edge, Opera */
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+    /* Firefox */
+    input[type=number] 
+    {
+      -moz-appearance: textfield;
+    }
+    </style>
+
+{% endblock %}
+
+{% extends "layout.html" %} {% block content %}
+
+<!-- Input, Buttons and Gauge-->
+<div class="container">
+    <div class="input-area">
+        <div class="row">
+            <div class="col-md-6" style="padding-top: 55px;">
+                <label for="spend-amount">I want to spend: $</label>
+                <input type="number" id="spend-amount" name="spend-amount" min="0.00" max="1000000.00" value="0.00" step=".50">
+                <div class="buttons">
+                    <button type="button" id="get-stocks" name="get-stocks" class="get-button">Get Stocks</button>
+                    <button type="button" id="reset" name="reset" class="reset-button">Reset Table</button>
+                </div>
+            </div>
+             <!-- Div for guage -->
+            <div class="col-md-6" id="gauge">
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Div for stocks table -->
+<div class="charts" style="padding-left: 20px;">
+    <div class="row">
+         <!-- stock table -->
+        <div class="col-md-7">
+            <table class="stock-table table table-striped table-hover">
+                <thead class="stock-table-head">
+                    <tr>
+                        <th>Qty</th>
+                        <th>Ticker</th>
+                        <th>Company Name</th>
+                        <th>Price</th>
+                        <th>Dividend</th>
+                        <th>ROI (%)</th>
+                    </tr>
+                </thead>
+                <tbody class="stock-table-body">
+                   <!-- table row/col in js -->
+                </tbody>
+            </table>
+        </div>
+    <!-- horizontal bar chart -->
+        
+        <div id="pie-chart" class="col-md-5">
+
+        </div>
+    </div>
+</div>
+
+<!-- Div for the Footer -->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6" style="padding: 20px;">
+                <span class="bottom">
+                    <h2>Sources:</h2>
+                    <ul class="source-list">
+                        <!-- data source for our stock data -->
+                        <li><a class="footer-text" href="https://polygon.io">polygon.io</a></li>
+                        <!--reference source for the James Bond icon, must insert for free use of icon-->
+                        <li><a class="footer-text" href="https://icons8.com/icon/69460/james-bond">James Bond icon by Icons8</a></li>
+                        <!-- source for our Russell 1000  -->
+                        <li><a class="footer-text" href="https://research.ftserussell.com/Analytics/FactSheets/temp/3f3741fa-5be6-45d9-83d3-e02cd5d7331a.pdf">Russell 1000</a></li>
+                    </ul>
+                </span>
+            </div>
+            <div class="col-md-6" style="text-align: right; color: white; padding-top: 20px;">
+                <p>Data refreshes every 8 hours</p>
+            </div>
+        </div>
+    </div>
+  </footer>
+</div>
+<!-- <script src="app.js"></script> -->
+<script src="../static/data/openClose.json"></script>
+<script src="../static/js/app.js"></script>
+<script>
+function myFunction() 
+{
+  var element = document.body;
+//   element.classList.toggle("dark-mode");
+  $('body').toggleClass('dark-mode');
+  $('.charts').toggleClass('dark-mode');
+  $('table').toggleClass('table-dark');
+}
+</script>
+{% endblock %}
+
