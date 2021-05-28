@@ -24,7 +24,6 @@ stock_list_US = stock_list_US.iloc[start:stop]
 
 # Initialize list to hold information from yfinance
 y_info_dict = []
-
 error_log = open("errors.log","a")
 
 startTime = time.time()
@@ -68,4 +67,5 @@ y_info_df = pd.DataFrame(y_info_dict)
 print(y_info_df)
 
 
-y_info_df.to_csv(f'{start}-{stop}_stock_info.csv')
+y_info_df.to_csv(f'Data_Sources/{start}-{stop}_stock_info.csv')
+
