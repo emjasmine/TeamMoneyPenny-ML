@@ -24,12 +24,14 @@
         <form action="/result1" method="post">
             <label for="istock">Your Stock</label>
             <input type="text" id="istock" name="istock"><br><br>
-            <label for="roi">ROI Range</label>
-            <input type="text" id="roi" name="roi"><br><br>
-            <label for="price">Price Range</label>
-            <input type="text" id="price" name="price"><br><br>
             <label for="industry">Industry</label>
             <input type="text" id="industry" name="industry"><br><br>
+            <label for="price">Price Range</label>
+            <input type="text" id="price" name="price"><br><br>
+            <label for="roi">ROI Range</label>
+            <input type="text" id="roi" name="roi"><br><br>
+            <label for="risk_tolerane">Risk Tolerance</label>
+            <input type="text" id="risk_tolerane" name="risk_tolerane"><br><br>
             <input type="submit" value="Submit">
         </form>
     </div>
@@ -39,9 +41,9 @@
         <table class="stock-table table table-striped table-hover">
             <thead class="stock-table-head">
                 <tr>
-                    <th>Qty</th>
                     <th>Ticker</th>
                     <th>Company Name</th>
+                    <th>Industry</th>
                     <th>Price</th>
                     <th>Dividend</th>
                     <th>ROI (%)</th>
