@@ -1,0 +1,62 @@
+{% extends "layout.html" %} 
+{% block myscripts %}
+
+<style>
+    /* Chrome, Safari, Edge, Opera */
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+    /* Firefox */
+    input[type=number] 
+    {
+      -moz-appearance: textfield;
+    }
+    </style>
+
+{% endblock %}
+
+{% block content %}
+<DIV class="container">
+    <!-- Input Form Area -->
+    <div class="input-form" style="padding-top: 125px;">
+        <form action="/result1" method="post">
+            <label for="istock">Your Stock</label>
+            <select id="istock" name="istock"><br><br>
+            <label for="industry">Industry</label>
+            <select id="industry" name="industry"><br><br>
+            <label for="price">Max Price Range</label>
+            <input type="text" id="price" name="price"><br><br>
+            <label for="low_risk">Low Risk Tolerance</label>
+            <input type="radio" id="low_risk" name="low_risk">
+            <label for="moderate_risk" style="padding-left: 10px;">Moderate Risk Tolerance</label>
+            <input type="radio" id="moderate_risk" name="moderate_risk">
+            <label for="high_risk" style="padding-left: 10px;">High Risk Tolerance</label>
+            <input type="radio" id="high_risk" name="high_risk"><br><br>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+
+    <!-- Stock Table -->
+    <div class="stock-table" style="padding-top: 25px;">
+        <table class="stock-table table table-dark table-striped table-hover">
+            <thead class="stock-table-head">
+                <tr>
+                    <th>Ticker</th>
+                    <th>Company Name</th>
+                    <th>Industry</th>
+                    <th>Price</th>
+                    <th>Dividend</th>
+                    <th>ROI (%)</th>
+                </tr>
+            </thead>
+            <tbody class="stock-table-body">
+               <!-- table row/col in js -->
+            </tbody>
+        </table>
+    </div>
+
+</DIV>
+
+{% endblock %}
