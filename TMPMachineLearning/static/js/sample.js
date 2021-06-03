@@ -8,6 +8,9 @@
 ****************************************************************/
 
 // call BERTs_Flask for ticker funtion results
-tickerUrl = '/tickers';
-d3.json(tickerUrl).then(function (data)
-{ console.log(data) })
+function tickerTable(){
+    tickerUrl = '/tickers';
+    d3.json(tickerUrl).then(function (data)
+    { console.log(data) })
+}
+tickerTable();
