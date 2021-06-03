@@ -20,26 +20,30 @@
 {% block content %}
 <DIV class="container">
     <!-- Input Form Area -->
-    <div class="input-form" style="padding-top: 125px;">
+    <div class="input-form" style="padding-top: 150px">
         <form action="/result1" method="post">
             <label for="istock">Your Stock</label>
-            <select id="istock" name="istock"><br><br>
+            <select id="istock" name="istock"></select><br><br>
+
             <label for="industry">Industry</label>
-            <select id="industry" name="industry"><br><br>
+            <select id="industry" name="industry"></select><br><br>
+
             <label for="price">Max Price Range</label>
             <input type="text" id="price" name="price"><br><br>
+
             <label for="low_risk">Low Risk Tolerance</label>
             <input type="radio" id="low_risk" name="low_risk">
             <label for="moderate_risk" style="padding-left: 10px;">Moderate Risk Tolerance</label>
             <input type="radio" id="moderate_risk" name="moderate_risk">
             <label for="high_risk" style="padding-left: 10px;">High Risk Tolerance</label>
             <input type="radio" id="high_risk" name="high_risk"><br><br>
+
             <input type="submit" value="Submit">
         </form>
     </div>
 
     <!-- Stock Table -->
-    <div class="stock-table" style="padding-top: 25px;">
+    <div class="stock-table" style="padding-top: 25px">
         <table class="stock-table table table-dark table-striped table-hover">
             <thead class="stock-table-head">
                 <tr>
