@@ -19,8 +19,9 @@ def tickers():
     ########## Read in data file ##########
     path = '../resources/Flask_table.csv'
     Flask_table = pd.read_csv(path,index_col = False)
-    ########## Pull only the Ticker & Industry coulmns ##########
+    ########## Pull only the Ticker coulmns ##########
     Ticker = Flask_table['Ticker']
+    Ticker = json.dumps(Ticker, indent=4)
     return Ticker
 
 @app.route('/industry')
@@ -28,7 +29,9 @@ def industry():
     ########## Read in data file ##########
     path = '../resources/Flask_table.csv'
     Flask_table = pd.read_csv(path,index_col = False)
-    ########## Pull only the Ticker & Industry coulmns ##########
-    Ticker = Flask_table['Industry']
+    ########## Pull only the Industry coulmns ##########
+    Industry = Flask_table['Industry']
+    Industry = json.dumps(Industry, indent=4)
     return Industry
+    
 
