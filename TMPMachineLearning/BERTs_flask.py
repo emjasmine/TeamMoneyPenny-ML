@@ -16,12 +16,14 @@ from . import app
 
 @app.route('/tickers')
 def tickers():
+    
     ########## Read in data file ##########
-    path = '../resources/Flask_table.csv'
+    path = 'static/resources/Flask_table.csv'
     Flask_table = pd.read_csv(path,index_col = False)
     ########## Pull only the Ticker coulmns ##########
     Ticker = Flask_table['Ticker']
     Ticker = json.dumps(Ticker, indent=4)
+    print(f"rendering {Ticker}")
     return Ticker
 
 @app.route('/industry')
@@ -33,5 +35,5 @@ def industry():
     Industry = Flask_table['Industry']
     Industry = json.dumps(Industry, indent=4)
     return Industry
-    
+
 

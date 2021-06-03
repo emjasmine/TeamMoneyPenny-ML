@@ -7,13 +7,11 @@
                 Fetch all tickers from BERTs Flask app
 ****************************************************************/
 
-function get_tickers() 
-{
-    // call BERTs_Flask for ticker funtion results
-    tickerUrl = '/tickers';
-    console.log(d3.json(tickerUrl))
-//     .then((data) => 
-//     {
+// call BERTs_Flask for ticker funtion results
+tickerUrl = '/tickers';
+d3.json(tickerUrl).then(function (data)
+{ console.log(data) })
+
 //         // select ticker dropdown
 //         var dropdown = d3.select("#istock");
 //         data.lvl1.levl2.forEach((d) => 
