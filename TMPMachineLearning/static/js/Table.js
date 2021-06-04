@@ -13,12 +13,12 @@ d3.select("#submit").on("click", feedBert)
 function feedBert()
 {
     let stock = d3.select("#istock").node().value
-    let industry = d3.select("#industry")
-    let price = d3.select("#price")
-    let low_risk = d3.select("#low_risk")
-    let moderate_risk = d3.select("#moderate_risk")
-    let high_risk = d3.select("#high_risk")
-    console.log('form submission { istock: ${stock}, industry: ${industry},price: ${price},low_risk: ${low_risk},moderate_risk: ${moderate_risk},high_risk: ${high_risk} }')
+    let industry = d3.select("#industry").node().value
+    let price = d3.select("#price").node().value
+    let low_risk = d3.select("#low_risk").node().value
+    let moderate_risk = d3.select("#moderate_risk").node().value
+    let high_risk = d3.select("#high_risk").node().value
+    console.log(`form submission { istock: ${stock}, industry: ${industry},price: ${price},low_risk: ${low_risk},moderate_risk: ${moderate_risk},high_risk: ${high_risk} }`)
     d3.json('/ticker_select', 
     {
         method: 'POST',
