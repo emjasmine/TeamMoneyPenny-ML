@@ -8,6 +8,8 @@
 ****************************************************************/
 
 // call BERTs_Flask for ticker funtion results
+console.log("Starting BERT")
+
 function tickerTable(){
     tickerUrl = '/tickers';
     d3.json(tickerUrl).then(function (data)

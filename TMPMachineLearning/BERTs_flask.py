@@ -18,18 +18,20 @@ from . import app
 def tickers():
     
     ########## Read in data file ##########
-    path = 'static/resources/Flask_table.csv'
+    path = 'TMPMachineLearning/static/resources/Flask_table.csv'
     Flask_table = pd.read_csv(path,index_col = False)
     ########## Pull only the Ticker coulmns ##########
     Ticker = Flask_table['Ticker']
-    Ticker = json.dumps(Ticker, indent=4)
-    print(f"rendering {Ticker}")
-    return Ticker
+    result = Ticker.to_json(orient='records', indent=4)
+    # print(f"rendering {Ticker}")
+    # print(Flask_table)
+    # return
+    return result
 
 @app.route('/industry')
 def industry():
     ########## Read in data file ##########
-    path = '../resources/Flask_table.csv'
+    path = 'static/resources/Flask_table.csv'
     Flask_table = pd.read_csv(path,index_col = False)
     ########## Pull only the Industry coulmns ##########
     Industry = Flask_table['Industry']
