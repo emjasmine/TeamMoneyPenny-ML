@@ -10,7 +10,7 @@ import json
 import matplotlib.pyplot as plt
 from statistics import mode
 from datetime import datetime
-from flask import render_template, request
+from flask import render_template, request, jsonify
 from . import app
 
 
@@ -22,14 +22,16 @@ def tickers():
     Flask_table = Flask_table.to_json(orient='records', indent=4)
     return Flask_table
 
+###############################################################################################
+
 @app.route('/ticker_select', methods=['GET','POST'])
 def select():
 
-    ########## Read in data file ##########
-    path = 'static/resources/Flask_table.csv'
+    ########### Read in data file ##########
+    path = 'TMPMachineLearning/static/resources/Flask_table.csv'
     flask_data = pd.read_csv(path)
     flask_data = flask_data.drop("Unnamed: 0", axis=1)
-
+    print(path)
     ########## Grab stock input fields ##########
     if request.method == 'GET':
         form_data = {"istock": "none",
@@ -38,10 +40,10 @@ def select():
                     "low_risk": "none",
                     "moderate_risk": "none",
                     "high_risk": "none"}
-        return form_data
+        return jsonify(form_data)
 
     elif request.method == 'POST':
-        data = request.form
+        data = request.get_json(force=True)
         print(data)
 
     select_stock = flask_data.loc[flask_data['Ticker'] == data['istock']]
@@ -52,7 +54,7 @@ def select():
 
     cluster = cluster_data.to_json(orient='records',indent=4)
     print("Please work, please")
-    return cluster
+    return jsonify(cluster)
 
 
     
