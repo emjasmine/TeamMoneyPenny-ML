@@ -1,0 +1,475 @@
+,Ticker,Company,Industry,Price,Dividends,ROI,Risk,Clusters
+0,JEF,Jefferies Financial Group Inc. Common Stock,Financial Services,$32.2900,$0.0000,0%,Low Risk,2
+1,MTOR,Meritor Inc. Common Stock,Consumer Cyclical,$26.7100,$0.0000,0%,Low Risk,1
+2,MSC,Studio City International Holdings Limited American depositary shares each representing four  Class A ordinary shares,Consumer Cyclical,$11.0540,$0.0000,0%,Low Risk,3
+3,CHE,Chemed Corp,Healthcare,$489.7000,$0.0000,0%,Low Risk,0
+4,KRC,Kilroy Realty Corporation Common Stock,Real Estate,$72.5600,$0.0000,0%,Low Risk,0
+5,GCV,Gabelli Convertible and Income Securities Fund Inc. (The) Common Stock,Financial Services,$6.4800,$0.0000,0%,Low Risk,2
+6,CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,Real Estate,$9.9800,$0.0000,0%,Low Risk,3
+7,TDS,Telephone and Data Systems Inc. Common Shares,Communication Services,$26.0900,$0.0000,0%,Low Risk,6
+8,NZF,Nuveen Municipal Credit Income Fund ,Financial Services,$16.9800,$0.0000,0%,Low Risk,2
+9,STON,StoneMor Inc. Common Stock,Consumer Cyclical,$2.1100,$0.0000,0%,Low Risk,3
+10,HXL,Hexcel Corporation Common Stock,Industrials,$60.3600,$0.0000,0%,Low Risk,0
+11,GNW,Genworth Financial Inc Common Stock,Financial Services,$4.1800,$0.0000,0%,Low Risk,5
+12,TUYA,Tuya Inc. American Depositary Shares each representing one Class A Ordinary Share,Technology,$25.9500,$0.0000,0%,Low Risk,1
+13,DCP,DCP Midstream  LP Common Units ,Energy,$26.8000,$0.0000,0%,Low Risk,6
+14,IPI,Intrepid Potash Inc Common Stock,Basic Materials,$30.5400,$0.0000,0%,Low Risk,1
+15,NI,NiSource Inc Common Stock,Utilities,$25.4300,$0.0000,0%,Low Risk,3
+16,DHF,BNY Mellon High Yield Strategies Fund Common Stock,Financial Services,$3.2000,$0.0000,0%,Low Risk,2
+17,LEN,Lennar Corporation Class A Common Stock,Consumer Cyclical,$98.5000,$0.0000,0%,Low Risk,1
+18,STEM,Stem Inc. Class A Common Stock,Technology,$27.6500,$0.0000,0%,Low Risk,1
+19,TMO,Thermo Fisher Scientific Inc Common Stock,Healthcare,$447.0100,$0.0000,0%,Low Risk,0
+20,C,Citigroup Inc. Common Stock,Financial Services,$79.7600,$0.0000,0%,Low Risk,8
+21,CSTM,Constellium SE Ordinary Shares (France),Basic Materials,$18.2500,$0.0000,0%,Low Risk,3
+22,ZUO,Zuora Inc. Class A Common Stock,Technology,$14.9800,$0.0000,0%,Low Risk,0
+23,BBW,Build-A-Bear Workshop Inc. Common Stock,Consumer Cyclical,$16.7000,$0.0000,0%,Low Risk,3
+24,FIV,First Trust Senior Floating Rate 2022 Target Term Fund Common Shares of Beneficial Interest,Financial Services,$9.4600,$0.0000,0%,Low Risk,2
+25,EGO,Eldorado Gold Corporation Ordinary Shares,Basic Materials,$11.9300,$0.0000,0%,Low Risk,3
+26,HGLB,Highland Global Allocation Fund Common Stock,Undefined,$9.1200,$0.0000,0%,Low Risk,3
+27,GIS,General Mills Inc. Common Stock,Consumer Defensive,$62.6600,$0.0000,0%,Low Risk,0
+28,MHN,Blackrock MuniHoldings New York Quality Fund Inc. Common Stock,Financial Services,$14.5400,$0.0000,0%,Low Risk,2
+29,TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares,Healthcare,$10.5000,$0.0000,0%,Low Risk,1
+30,CNX,CNX Resources Corporation Common Stock,Energy,$14.1300,$0.0000,0%,Low Risk,6
+31,SJT,San Juan Basin Royalty Trust Common Stock,Energy,$5.5600,$0.0000,0%,Low Risk,7
+32,SCL,Stepan Company Common Stock,Basic Materials,$136.9500,$0.0000,0%,Low Risk,1
+33,SRE,Sempra Energy Common Stock,Utilities,$135.9300,$0.0000,0%,Low Risk,0
+34,EDF,Stone Harbor Emerging Markets Income Fund Common Shares of Beneficial Interest,Financial Services,$8.4900,$0.0000,0%,Low Risk,2
+35,WMK,Weis Markets Inc. Common Stock,Consumer Defensive,$50.9100,$0.0000,0%,Low Risk,0
+36,ALB,Albemarle Corporation Common Stock,Basic Materials,$171.4300,$0.0000,0%,Low Risk,0
+37,NAN,Nuveen New York Quality Municipal Income Fund Common Stock,Financial Services,$14.8500,$0.0000,0%,Low Risk,2
+38,TGP,Teekay LNG Partners L.P.,Energy,$15.7800,$0.0000,0%,Low Risk,1
+39,ABB,ABB Ltd Common Stock,Industrials,$34.7100,$0.0000,0%,Low Risk,3
+40,CLDR,Cloudera Inc. Common Stock,Technology,$15.9300,$0.0000,0%,Low Risk,3
+41,JBL,Jabil Inc. Common Stock,Technology,$56.4500,$0.0000,0%,Low Risk,0
+42,DYFN,Angel Oak Dynamic Financial Strategies Income Term Trust Common Shares of Beneficial Interest,Undefined,$20.0000,$0.0000,0%,Low Risk,3
+43,PDS,Precision Drilling Corporation Common Stock,Energy,$32.9800,$0.0000,0%,Low Risk,1
+44,SMG,Scotts Miracle-Gro Company (The) Common Stock,Basic Materials,$211.8100,$0.0000,0%,Low Risk,0
+45,SOS,SOS Limited American Depositary Shares,Technology,$3.6000,$0.0000,0%,Low Risk,1
+46,NXN,Nuveen New York Select Tax-Free Income Portfolio Common Stock,Financial Services,$13.9700,$0.0000,0%,Low Risk,5
+47,ELVT,Elevate Credit Inc. Common Stock,Financial Services,$3.9300,$0.0000,0%,Low Risk,5
+48,NVO,Novo Nordisk A/S Common Stock,Healthcare,$79.1900,$0.0000,0%,Low Risk,0
+49,CSR,D/B/A Centerspace Common Stock,Real Estate,$71.6700,$0.0000,0%,Low Risk,0
+50,AGL,agilon health inc. Common Stock,Healthcare,$38.4000,$0.0000,0%,Low Risk,0
+51,RMO,Romeo Power Inc. Class A Common Stock,Consumer Cyclical,$8.6300,$0.0000,0%,Low Risk,3
+52,DT,Dynatrace Inc. Common Stock,Technology,$51.2900,$0.0000,0%,Low Risk,1
+53,ARCH,Arch Resources Inc. Class A Common Stock,Energy,$59.0200,$0.0000,0%,Low Risk,6
+54,PKG,Packaging Corporation of America Common Stock,Consumer Cyclical,$149.7900,$0.0000,0%,Low Risk,0
+55,ABBV,AbbVie Inc. Common Stock,Healthcare,$112.2100,$0.0000,0%,Low Risk,0
+56,DLR,Digital Realty Trust Inc. Common Stock,Real Estate,$153.1500,$0.0000,0%,Low Risk,0
+57,EURN,Euronav NV Ordinary Shares,Energy,$9.7200,$0.0000,0%,Low Risk,7
+58,APTS,Preferred Apartment Communities Inc. Common Stock,Real Estate,$10.0700,$0.0000,0%,Low Risk,3
+59,FNV,Franco-Nevada Corporation,Basic Materials,$149.2300,$0.0000,0%,Low Risk,3
+60,SRT,StarTek Inc. Common Stock,Industrials,$6.5700,$0.0000,0%,Low Risk,3
+61,CATO,Cato Corporation (The) Class A Common Stock,Consumer Cyclical,$16.3800,$0.0000,0%,Low Risk,0
+62,AYX,Alteryx Inc. Class A Common Stock,Technology,$76.7600,$0.0000,0%,Low Risk,0
+63,LEA,Lear Corporation Common Stock,Consumer Cyclical,$198.8400,$0.0000,0%,Low Risk,0
+64,JFR,Nuveen Floating Rate Income Fund Common Stock,Financial Services,$9.6300,$0.0000,0%,Low Risk,2
+65,DNZ,D and Z Media Acquisition Corp. Class A Common Stock,Financial Services,$9.7300,$0.0000,0%,Low Risk,2
+66,DELL,Dell Technologies Inc. Class C Common Stock ,Technology,$102.8500,$0.0000,0%,Low Risk,0
+67,BGT,BlackRock Floating Rate Income Trust,Financial Services,$12.5800,$0.0000,0%,Low Risk,2
+68,CSL,Carlisle Companies Incorporated Common Stock,Industrials,$192.1200,$0.0000,0%,Low Risk,0
+69,HI,Hillenbrand Inc Common Stock,Industrials,$46.7500,$0.0000,0%,Low Risk,1
+70,EPC,Edgewell Personal Care Company Common Stock,Consumer Defensive,$44.0900,$0.0000,0%,Low Risk,1
+71,CCVI,Churchill Capital Corp VI Class A Common Stock,Financial Services,$9.8300,$0.0000,0%,Low Risk,5
+72,GB,Global Blue Group Holding AG Ordinary Shares,Technology,$9.6000,$0.0000,0%,Low Risk,3
+73,EFR,Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest,Financial Services,$14.1700,$0.0000,0%,Low Risk,2
+74,IHG,Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share),Consumer Cyclical,$71.3000,$0.0000,0%,Low Risk,0
+75,JRO,Nuveen Floating Rate Income Opportuntiy Fund Shares of Beneficial Interest,Financial Services,$9.5300,$0.0000,0%,Low Risk,2
+76,DY,Dycom Industries Inc. Common Stock,Industrials,$76.4300,$0.0000,0%,Low Risk,0
+77,HQH,Tekla Healthcare Investors Common Stock,Financial Services,$24.5300,$0.0000,0%,Low Risk,2
+78,LUB,Luby's Inc. Common Stock,Consumer Cyclical,$3.7100,$0.0000,0%,Low Risk,3
+79,MTB,M&T Bank Corporation Common Stock,Financial Services,$162.0700,$0.0000,0%,Low Risk,8
+80,ADNT,Adient plc Ordinary Shares ,Consumer Cyclical,$52.5000,$0.0000,0%,Low Risk,0
+81,GOLF,Acushnet Holdings Corp. Common Stock,Consumer Cyclical,$53.5900,$0.0000,0%,Low Risk,0
+82,CPT,Camden Property Trust Common Stock,Real Estate,$127.7300,$0.0000,0%,Low Risk,0
+83,CVA,Covanta Holding Corporation Common Stock,Industrials,$14.9800,$0.0000,0%,Low Risk,3
+84,IP,International Paper Company Common Stock,Consumer Cyclical,$63.8300,$0.0000,0%,Low Risk,0
+85,JIH,Juniper Industrial Holdings Inc. Class A Common Stock,Financial Services,$13.4100,$0.0000,0%,Low Risk,2
+86,NETI,Eneti Inc. Common Stock,Industrials,$20.5800,$0.0000,0%,Low Risk,1
+87,EOG,EOG Resources Inc. Common Stock,Energy,$84.5900,$0.0000,0%,Low Risk,6
+88,MEC,Mayville Engineering Company Inc. Common Stock,Industrials,$19.6700,$0.0000,0%,Low Risk,1
+89,MYN,Blackrock MuniYield New York Quality Fund Inc.Common Stock,Financial Services,$13.9600,$0.0000,0%,Low Risk,2
+90,EQR,Equity Residential Common Shares of Beneficial Interest,Real Estate,$79.2200,$0.0000,0%,Low Risk,0
+91,WIA,Western Asset Inflation-Linked Income Fund,Financial Services,$13.9600,$0.0000,0%,Low Risk,2
+92,EQHA,EQ Health Acquisition Corp. Class A Common Stock,Financial Services,$9.7500,$0.0000,0%,Low Risk,2
+93,FRO,Frontline Ltd. Ordinary Shares,Energy,$8.7600,$0.0000,0%,Low Risk,1
+94,EGY,VAALCO Energy Inc.  Common Stock,Energy,$3.0100,$0.0000,0%,Low Risk,7
+95,PSX,Phillips 66 Common Stock,Energy,$86.8500,$0.0000,0%,Low Risk,3
+96,MAXR,Maxar Technologies Inc.,Technology,$32.8700,$0.0000,0%,Low Risk,3
+97,HYLN,Hyliion Holdings Corp. Class A Common Stock,Consumer Cyclical,$10.6100,$0.0000,0%,Low Risk,1
+98,EMD,Western Asset Emerging Markets Debt Fund Inc Common Stock,Financial Services,$13.9300,$0.0000,0%,Low Risk,2
+99,CRY,CryoLife Inc. Common Stock,Healthcare,$29.3900,$0.0000,0%,Low Risk,0
+100,ACIC,Atlas Crest Investment Corp. Class A Common Stock,Financial Services,$9.9200,$0.0000,0%,Low Risk,5
+101,COO,The Cooper Companies Inc. Common Stock,Healthcare,$390.3900,$0.0000,0%,Low Risk,0
+102,TSLX,Sixth Street Specialty Lending Inc. Common Stock,Financial Services,$22.3800,$0.0000,0%,Low Risk,5
+103,ISD,PGIM High Yield Bond Fund Inc.,Financial Services,$16.1900,$0.0000,0%,Low Risk,2
+104,FCF,First Commonwealth Financial Corporation Common Stock,Financial Services,$15.3600,$0.0000,0%,Low Risk,2
+105,MRK,Merck & Company Inc. Common Stock (new),Healthcare,$75.1800,$0.0000,0%,Low Risk,1
+106,BIF,Boulder Growth & Income Fund Inc.,Financial Services,$13.7400,$0.0000,0%,Low Risk,2
+107,MT,Arcelor Mittal NY Registry Shares NEW,Basic Materials,$33.8100,$0.0000,0%,Low Risk,1
+108,CTOS,Custom Truck One Source Inc. Common Stock,Industrials,$10.6500,$0.0000,0%,Low Risk,3
+109,JHI,John Hancock Investors Trust Common Stock,Financial Services,$18.5800,$0.0000,0%,Low Risk,2
+110,OEC,Orion Engineered Carbons S.A Common Shares,Basic Materials,$21.1100,$0.0000,0%,Low Risk,3
+111,VER,VEREIT Inc. Common Stock,Real Estate,$48.2900,$0.0000,0%,Low Risk,0
+112,FPH,Five Point Holdings LLC Class A Common Shares,Real Estate,$8.5700,$0.0000,0%,Low Risk,7
+113,WFG,West Fraser Timber Co. Ltd Common stock,Basic Materials,$77.2400,$0.0000,0%,Low Risk,3
+114,HESM,Hess Midstream LP Class A Share,Energy,$24.9000,$0.0000,0%,Low Risk,6
+115,DEN,Denbury Inc. Common Stock,Energy,$70.0200,$0.0000,0%,Low Risk,0
+116,BBY,Best Buy Co. Inc. Common Stock,Consumer Cyclical,$114.9000,$0.0000,0%,Low Risk,0
+117,PFSI,PennyMac Financial Services Inc. Common Stock,Financial Services,$62.7000,$0.0000,0%,Low Risk,8
+118,BSM,Black Stone Minerals L.P. Common units representing limited partner interests,Energy,$10.0800,$0.0000,0%,Low Risk,1
+119,BKD,Brookdale Senior Living Inc. Common Stock,Healthcare,$7.2200,$0.0000,0%,Low Risk,3
+120,BTU,Peabody Energy Corporation Common Stock ,Energy,$7.4100,$0.0000,0%,Low Risk,6
+121,USNA,USANA Health Sciences Inc. Common Stock,Consumer Defensive,$106.4500,$0.0000,0%,Low Risk,1
+122,GIX,GigCapital2 Inc. Common Stock,Financial Services,$10.0100,$0.0000,0%,Low Risk,2
+123,WPF,Foley Trasimene Acquisition Corp. Class A CommonStock,Financial Services,$10.3800,$0.0000,0%,Low Risk,2
+124,TLK,PT Telekomunikasi Indonesia Tbk,Communication Services,$23.7800,$0.0000,0%,Low Risk,7
+125,KREF,KKR Real Estate Finance Trust Inc. Common Stock,Real Estate,$21.6600,$0.0000,0%,Low Risk,7
+126,MSGE,Madison Square Garden Entertainment Corp. Class A Common Stock ,Communication Services,$92.5800,$0.0000,0%,Low Risk,6
+127,PVH,PVH Corp. Common Stock,Consumer Cyclical,$114.1100,$0.0000,0%,Low Risk,1
+128,NIMC,NiSource Inc Series A Corporate Units,Utilities,$106.0800,$0.0000,0%,Low Risk,3
+129,SWK,Stanley Black & Decker Inc. Common Stock,Industrials,$215.8900,$0.0000,0%,Low Risk,0
+130,AMR,Alpha Metallurgical Resources Inc. Common Stock,Basic Materials,$20.7000,$0.0000,0%,Low Risk,0
+131,UVV,Universal Corporation Common Stock,Consumer Defensive,$58.6300,$0.0000,0%,Low Risk,1
+132,AC,Associated Capital Group Inc. Common Stock,Financial Services,$37.5000,$0.0000,0%,Low Risk,8
+133,OWL,Blue Owl Capital Inc. Class A Common Stock,Undefined,$11.9400,$0.0000,0%,Low Risk,3
+134,ORA,Ormat Technologies Inc. Common Stock,Utilities,$69.3500,$0.0000,0%,Low Risk,0
+135,GRA,W.R. Grace & Co. Common Stock,Basic Materials,$68.7200,$0.0000,0%,Low Risk,1
+136,NBHC,National Bank Holdings Corporation Common Stock,Financial Services,$40.2900,$0.0000,0%,Low Risk,8
+137,FTCH,Farfetch Limited Class A Ordinary Shares,Consumer Cyclical,$49.3700,$0.0000,0%,Low Risk,1
+138,TDY,Teledyne Technologies Incorporated Common Stock,Technology,$429.0700,$0.0000,0%,Low Risk,0
+139,UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,Financial Services,$14.0000,$0.0000,0%,Low Risk,4
+140,ANF,Abercrombie & Fitch Company Common Stock,Consumer Cyclical,$41.7400,$0.0000,0%,Low Risk,0
+141,BKH,Black Hills Corporation Common Stock,Utilities,$65.9700,$0.0000,0%,Low Risk,0
+142,BPT,BP Prudhoe Bay Royalty Trust Common Stock,Energy,$3.7500,$0.0000,0%,Low Risk,7
+143,EGHT,8x8 Inc Common Stock,Technology,$23.2300,$0.0000,0%,Low Risk,0
+144,WWW,Wolverine World Wide Inc. Common Stock,Consumer Cyclical,$36.5800,$0.0000,0%,Low Risk,0
+145,APGB,Apollo Strategic Growth Capital II Class A Ordinary Shares,Financial Services,$9.7900,$0.0000,0%,Low Risk,2
+146,HGV,Hilton Grand Vacations Inc. Common Stock ,Consumer Cyclical,$46.8300,$0.0000,0%,Low Risk,1
+147,BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,Financial Services,$67.0000,$0.0000,0%,Low Risk,8
+148,SWCH,Switch Inc. Class A Common Stock,Technology,$18.9700,$0.0000,0%,Low Risk,3
+149,NVST,Envista Holdings Corporation Common Stock,Healthcare,$42.9200,$0.0000,0%,Low Risk,0
+150,ENIC,Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),Utilities,$3.0600,$0.0000,0%,Low Risk,7
+151,FSKR,FS KKR Capital Corp. II Common Stock,Financial Services,$21.6800,$0.0000,0%,Low Risk,5
+152,MANU,Manchester United Ltd. Class A Ordinary Shares,Consumer Cyclical,$15.6500,$0.0000,0%,Low Risk,3
+153,INFO,IHS Markit Ltd. Common Shares,Industrials,$103.9700,$0.0000,0%,Low Risk,0
+154,PIAI,Prime Impact Acquisition I Class A Ordinary Shares,Financial Services,$9.7800,$0.0000,0%,Low Risk,2
+155,DNB,Dun & Bradstreet Holdings Inc. Common Stock,Technology,$21.0300,$0.0000,0%,Low Risk,1
+156,LXP,Lexington Realty Trust Common Stock,Real Estate,$12.6700,$0.0000,0%,Low Risk,3
+157,BUR,Burford Capital Limited Ordinary Shares,Financial Services,$12.0000,$0.0000,0%,Low Risk,2
+158,TAP,Molson Coors Beverage Company Class B Common Stock,Consumer Defensive,$58.2000,$0.0000,0%,Low Risk,1
+159,OLO,Olo Inc. Class A Common Stock,Technology,$34.9300,$0.0000,0%,Low Risk,0
+160,CHT,Chunghwa Telecom Co. Ltd.,Communication Services,$41.4800,$0.0000,0%,Low Risk,7
+161,DX,Dynex Capital Inc. Common Stock,Real Estate,$19.8900,$0.0000,0%,Low Risk,3
+162,LAZ,Lazard LTD. Lazard LTD. Class A Common Stock,Financial Services,$48.1800,$0.0000,0%,Low Risk,8
+163,LB,L Brands Inc.,Consumer Cyclical,$70.7900,$0.0000,0%,Low Risk,1
+164,GLP,Global Partners LP Global Partners LP Common Units representing Limited Partner Interests,Energy,$25.6900,$0.0000,0%,Low Risk,7
+165,LOW,Lowe's Companies Inc. Common Stock,Consumer Cyclical,$191.8500,$0.0000,0%,Low Risk,0
+166,BLX,Banco Latinoamericano de Comercio Exterior S.A.,Financial Services,$15.3900,$0.0000,0%,Low Risk,2
+167,SCHW,Charles Schwab Corporation (The) Common Stock,Financial Services,$74.6400,$0.0000,0%,Low Risk,8
+168,R,Ryder System Inc. Common Stock,Industrials,$84.2300,$0.0000,0%,Low Risk,0
+169,SPNV,Supernova Partners Acquisition Company Inc. Class A Common Stock,Financial Services,$9.9000,$0.0000,0%,Low Risk,2
+170,PFL,PIMCO Income Strategy Fund Shares of Beneficial Interest,Financial Services,$12.6400,$0.0000,0%,Low Risk,2
+171,NS,Nustar Energy L.P.  Common Units,Energy,$18.8100,$0.0000,0%,Low Risk,6
+172,ZEN,Zendesk Inc. Common Stock,Technology,$134.6200,$0.0000,0%,Low Risk,0
+173,REZI,Resideo Technologies Inc. Common Stock ,Industrials,$31.1600,$0.0000,0%,Low Risk,0
+174,LPI,Laredo Petroleum Inc. Common Stock,Energy,$63.0900,$0.0000,0%,Low Risk,6
+175,IDA,IDACORP Inc. Common Stock,Utilities,$97.5800,$0.0000,0%,Low Risk,0
+176,FFA,First Trust Enhanced Equity Income Fund,Financial Services,$19.8600,$0.0000,0%,Low Risk,2
+177,TRTX,TPG RE Finance Trust Inc. Common Stock,Real Estate,$13.3400,$0.0000,0%,Low Risk,3
+178,CRH,CRH PLC American Depositary Shares,Basic Materials,$52.6400,$0.0000,0%,Low Risk,3
+179,LTHM,Livent Corporation Common Stock,Basic Materials,$19.8900,$0.0000,0%,Low Risk,0
+180,JWS,Jaws Acquisition Corp. Class A Ordinary Shares,Financial Services,$14.6500,$0.0000,0%,Low Risk,5
+181,ASGN,ASGN Incorporated Common Stock,Industrials,$103.9000,$0.0000,0%,Low Risk,0
+182,H,Hyatt Hotels Corporation Class A Common Stock,Consumer Cyclical,$79.9400,$0.0000,0%,Low Risk,1
+183,PEN,Penumbra Inc. Common Stock,Healthcare,$250.6100,$0.0000,0%,Low Risk,0
+184,AEG,AEGON N.V. Common Stock,Financial Services,$4.7100,$0.0000,0%,Low Risk,2
+185,NCV,Virtus AllianzGI Convertible & Income Fund Common Shares of Beneficial Interest,Financial Services,$5.8400,$0.0000,0%,Low Risk,2
+186,BDN,Brandywine Realty Trust Common Stock,Real Estate,$14.5700,$0.0000,0%,Low Risk,3
+187,BW,Babcock & Wilcox Enterprises Inc. Common Stock,Industrials,$8.8900,$0.0000,0%,Low Risk,1
+188,X,United States Steel Corporation Common Stock,Basic Materials,$26.6700,$0.0000,0%,Low Risk,1
+189,RDN,Radian Group Inc. Common Stock,Financial Services,$23.4100,$0.0000,0%,Low Risk,2
+190,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,Technology,$118.5100,$0.0000,0%,Low Risk,1
+191,KMT,Kennametal Inc. Common Stock,Industrials,$38.1300,$0.0000,0%,Low Risk,0
+192,ALK,Alaska Air Group Inc. Common Stock,Industrials,$69.5400,$0.0000,0%,Low Risk,1
+193,CPF,Central Pacific Financial Corp New,Financial Services,$28.1300,$0.0000,0%,Low Risk,4
+194,GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,Financial Services,$24.3900,$0.0000,0%,Low Risk,2
+195,CM,Canadian Imperial Bank of Commerce Common Stock,Financial Services,$119.1400,$0.0000,0%,Low Risk,8
+196,GLOP,GasLog Partners LP Common Units representing limited partnership interests,Energy,$2.9800,$0.0000,0%,Low Risk,1
+197,MAV,Pioneer Municipal High Income Advantage Fund Inc.,Financial Services,$12.1400,$0.0000,0%,Low Risk,2
+198,SEE,Sealed Air Corporation Common Stock,Consumer Cyclical,$57.8400,$0.0000,0%,Low Risk,0
+199,RGS,Regis Corporation Common Stock,Consumer Cyclical,$9.3500,$0.0000,0%,Low Risk,3
+200,PRU,Prudential Financial Inc. Common Stock,Financial Services,$108.5100,$0.0000,0%,Low Risk,8
+201,ENIA,Enel Americas S.A. American Depositary Shares,Utilities,$6.8400,$0.0000,0%,Low Risk,7
+202,FCPT,Four Corners Property Trust Inc. Common Stock,Real Estate,$28.3600,$0.0000,0%,Low Risk,7
+203,BXMX,Nuveen S&P 500 Buy-Write Income Fund Common Shares of Beneficial Interest,Financial Services,$14.3000,$0.0000,0%,Low Risk,2
+204,EXR,Extra Space Storage Inc Common Stock,Real Estate,$152.0100,$0.0000,0%,Low Risk,0
+205,KTB,Kontoor Brands Inc. Common Stock ,Consumer Cyclical,$66.9900,$0.0000,0%,Low Risk,0
+206,BDXB,Becton Dickinson and Company Depositary Shares each Representing a 1/20th Interest in a Share of 6.00% Mandatory Convertible Preferred Stock Series B,Healthcare,$53.8000,$0.0000,0%,Low Risk,6
+207,DOV,Dover Corporation Common Stock,Industrials,$151.1300,$0.0000,0%,Low Risk,0
+208,FSNB,Fusion Acquisition Corp. II Class A Common Stock,Financial Services,$9.6600,$0.0000,0%,Low Risk,2
+209,AVK,Advent Convertible and Income Fund,Financial Services,$19.5900,$0.0000,0%,Low Risk,2
+210,RYI,Ryerson Holding Corporation Common Stock,Industrials,$17.4500,$0.0000,0%,Low Risk,1
+211,HTH,Hilltop Holdings Inc.,Financial Services,$37.8100,$0.0000,0%,Low Risk,8
+212,PD,PagerDuty Inc. Common Stock,Technology,$40.3600,$0.0000,0%,Low Risk,0
+213,DSU,Blackrock Debt Strategies Fund Inc. Common Stock,Financial Services,$11.3000,$0.0000,0%,Low Risk,2
+214,NEM,Newmont Corporation,Basic Materials,$73.9500,$0.0000,0%,Low Risk,0
+215,CI,Cigna Corporation Common Stock,Healthcare,$257.6800,$0.0000,0%,Low Risk,0
+216,RBLX,Roblox Corporation Class A Common Stock,Communication Services,$96.8900,$0.0000,0%,Low Risk,3
+217,PZN,Pzena Investment Management Inc Class A Common Stock,Financial Services,$11.5900,$0.0000,0%,Low Risk,5
+218,JCI,Johnson Controls International plc Ordinary Share,Industrials,$67.0300,$0.0000,0%,Low Risk,0
+219,CPLG,CorePoint Lodging Inc. Common Stock ,Real Estate,$10.6300,$0.0000,0%,Low Risk,7
+220,PHK,Pimco High Income Fund Pimco High Income Fund,Financial Services,$6.8300,$0.0000,0%,Low Risk,2
+221,CAF,Morgan Stanley China A Share Fund Inc. Common Stock,Financial Services,$23.7800,$0.0000,0%,Low Risk,2
+222,AA,Alcoa Corporation Common Stock ,Basic Materials,$40.9800,$0.0000,0%,Low Risk,0
+223,MYJ,Blackrock MuniYield New Jersey Fund Inc Common Stock,Financial Services,$15.8600,$0.0000,0%,Low Risk,2
+224,STAG,Stag Industrial Inc. Common Stock,Real Estate,$36.4300,$0.0000,0%,Low Risk,3
+225,CW,Curtiss-Wright Corporation Common Stock,Industrials,$126.5700,$0.0000,0%,Low Risk,3
+226,PINS,Pinterest Inc. Class A Common Stock,Communication Services,$64.3700,$0.0000,0%,Low Risk,6
+227,MIT,Mason Industrial Technology Inc. Class A Common Stock,Financial Services,$9.7400,$0.0000,0%,Low Risk,2
+228,CFR,Cullen/Frost Bankers Inc. Common Stock,Financial Services,$122.0800,$0.0000,0%,Low Risk,8
+229,LZB,La-Z-Boy Incorporated Common Stock,Consumer Cyclical,$42.0300,$0.0000,0%,Low Risk,0
+230,NWG,NatWest Group plc American Depositary Shares,Financial Services,$5.9500,$0.0000,0%,Low Risk,2
+231,AAC,Ares Acquisition Corporation Class A Ordinary Shares,Financial Services,$9.8200,$0.0000,0%,Low Risk,2
+232,J,Jacobs Engineering Group Inc. Common Stock,Industrials,$142.3300,$0.0000,0%,Low Risk,0
+233,MTN,Vail Resorts Inc. Common Stock,Consumer Cyclical,$332.8600,$0.0000,0%,Low Risk,0
+234,FLY,Fly Leasing Limited,Industrials,$16.9300,$0.0000,0%,Low Risk,3
+235,GTT,GTT Communications Inc. Common Stock,Communication Services,$1.5900,$0.0000,0%,Low Risk,6
+236,UFI,Unifi Inc. New Common Stock,Consumer Cyclical,$27.8700,$0.0000,0%,Low Risk,0
+237,CCI,Crown Castle International Corp. (REIT) Common Stock,Real Estate,$191.5200,$0.0000,0%,Low Risk,0
+238,CE,Celanese Corporation Celanese Corporation Common Stock,Basic Materials,$168.4300,$0.0000,0%,Low Risk,0
+239,SNA,Snap-On Incorporated Common Stock,Industrials,$255.6400,$0.0000,0%,Low Risk,0
+240,DM,Desktop Metal Inc. Class A Common Stock,Technology,$13.1300,$0.0000,0%,Low Risk,3
+241,AXTA,Axalta Coating Systems Ltd. Common Shares,Basic Materials,$32.6600,$0.0000,0%,Low Risk,1
+242,PAI,Western Asset Investment Grade Income Fund Inc.,Financial Services,$15.2400,$0.0000,0%,Low Risk,5
+243,SHW,Sherwin-Williams Company (The) Common Stock,Basic Materials,$282.8400,$0.0000,0%,Low Risk,0
+244,HHC,Howard Hughes Corporation (The) Common Stock,Real Estate,$108.7500,$0.0000,0%,Low Risk,0
+245,BHV,BlackRock Virginia Municipal Bond Trust,Financial Services,$17.5950,$0.0000,0%,Low Risk,2
+246,ORI,Old Republic International Corporation Common Stock,Financial Services,$26.5100,$0.0000,0%,Low Risk,2
+247,NOC,Northrop Grumman Corporation Common Stock,Industrials,$365.6200,$0.0000,0%,Low Risk,0
+248,HEI,Heico Corporation Common Stock,Industrials,$143.0400,$0.0000,0%,Low Risk,0
+249,NUVB,Nuvation Bio Inc. Class A Common Stock,Healthcare,$13.6000,$0.0000,0%,Low Risk,3
+250,DLX,Deluxe Corporation Common Stock,Communication Services,$46.5700,$0.0000,0%,Low Risk,6
+251,ET,Energy Transfer LP Common Units ,Energy,$10.2600,$0.0000,0%,Low Risk,1
+252,FBK,FB Financial Corporation Common Stock,Financial Services,$42.0700,$0.0000,0%,Low Risk,4
+253,NR,Newpark Resources Inc. Common Stock,Energy,$3.5100,$0.0000,0%,Low Risk,7
+254,MYC,Blackrock MuniYield California Fund Inc. Common Stock,Financial Services,$15.2200,$0.0000,0%,Low Risk,2
+255,GPX,GP Strategies Corporation Common Stock,Consumer Defensive,$17.7400,$0.0000,0%,Low Risk,1
+256,THW,Tekla World Healthcare Fund Shares of Beneficial Interest,Financial Services,$15.8600,$0.0000,0%,Low Risk,2
+257,MMU,Western Asset Managed Municipals Fund Inc. Common Stock,Financial Services,$13.4700,$0.0000,0%,Low Risk,5
+258,TOT,Total SE,Energy,$47.7600,$0.0000,0%,Low Risk,6
+259,DKL,Delek Logistics Partners L.P. Common Units representing Limited Partner Interests,Energy,$42.7100,$0.0000,0%,Low Risk,6
+260,NHI,National Health Investors Inc. Common Stock,Real Estate,$68.2000,$0.0000,0%,Low Risk,0
+261,IGD,Voya Global Equity Dividend and Premium Opportunity Fund,Financial Services,$5.9400,$0.0000,0%,Low Risk,2
+262,CRHC,Cohn Robbins Holdings Corp. Class A Ordinary Shares,Financial Services,$9.7800,$0.0000,0%,Low Risk,5
+263,SPCE,Virgin Galactic Holdings Inc. Common Stock,Industrials,$28.8800,$0.0000,0%,Low Risk,3
+264,LL,Lumber Liquidators Holdings Inc Common Stock,Consumer Cyclical,$22.6100,$0.0000,0%,Low Risk,0
+265,RIG,Transocean Ltd (Switzerland) Common Stock,Energy,$4.0500,$0.0000,0%,Low Risk,1
+266,LEG,Leggett & Platt Incorporated Common Stock,Consumer Cyclical,$55.7000,$0.0000,0%,Low Risk,1
+267,FVT,Fortress Value Acquisition Corp. III Class A Common Stock,Financial Services,$9.8600,$0.0000,0%,Low Risk,2
+268,BYD,Boyd Gaming Corporation Common Stock,Consumer Cyclical,$64.1100,$0.0000,0%,Low Risk,0
+269,PGTI,PGT Innovations Inc.,Industrials,$24.3000,$0.0000,0%,Low Risk,3
+270,NSTC,Northern Star Investment Corp. III Class A Common Stock,Financial Services,$9.7800,$0.0000,0%,Low Risk,2
+271,GLT,Glatfelter Corporation Common Stock,Basic Materials,$14.9900,$0.0000,0%,Low Risk,7
+272,FSLY,Fastly Inc. Class A Common Stock,Technology,$47.2900,$0.0000,0%,Low Risk,0
+273,BOX,Box Inc. Class A Common Stock,Technology,$23.9700,$0.0000,0%,Low Risk,0
+274,NSP,Insperity Inc. Common Stock,Industrials,$91.6600,$0.0000,0%,Low Risk,0
+275,WLK,Westlake Chemical Corporation Common Stock,Basic Materials,$105.1900,$0.0000,0%,Low Risk,1
+276,DOC,Physicians Realty Trust Common Shares of Beneficial Interest,Real Estate,$18.4100,$0.0000,0%,Low Risk,3
+277,AENZ,Aenza S.A.A. American Depositary Shares,Industrials,$1.5200,$0.0000,0%,Low Risk,3
+278,NUO,Nuveen Ohio Quality Municipal Income Fund Common Stock,Financial Services,$16.3300,$0.0000,0%,Low Risk,2
+279,DV,DoubleVerify Holdings Inc. Common Stock,Technology,$34.8400,$0.0000,0%,Low Risk,0
+280,EPAC,Enerpac Tool Group Corp. Common Stock,Industrials,$27.8400,$0.0000,0%,Low Risk,0
+281,GRC,Gorman-Rupp Company (The) Common Stock,Industrials,$36.4800,$0.0000,0%,Low Risk,1
+282,WTM,White Mountains Insurance Group Ltd. Common Stock,Financial Services,"$1,188.8200",$0.0000,0%,Low Risk,8
+283,GDV,Gabelli Dividend & Income Trust Common Shares of Beneficial Interest,Financial Services,$26.3300,$0.0000,0%,Low Risk,2
+284,FUN,Cedar Fair L.P. Common Stock,Consumer Cyclical,$47.4900,$0.0000,0%,Low Risk,1
+285,CELP,Cypress Environmental Partners L.P. Common Units representing limited partner interests,Energy,$2.2600,$0.0000,0%,Low Risk,1
+286,MBT,Mobile TeleSystems PJSC,Communication Services,$9.1700,$0.0000,0%,Low Risk,1
+287,CIR,CIRCOR International Inc. Common Stock,Industrials,$39.0000,$0.0000,0%,Low Risk,1
+288,EB,Eventbrite Inc. Class A Common Stock,Technology,$20.3800,$0.0000,0%,Low Risk,0
+289,TWTR,Twitter Inc. Common Stock,Communication Services,$57.4400,$0.0000,0%,Low Risk,3
+290,FSLF,First Eagle Senior Loan Fund ,Financial Services,$14.5500,$0.0000,0%,Low Risk,5
+291,FI,Frank's International N.V. Common Stock,Energy,$3.5900,$0.0000,0%,Low Risk,1
+292,NPV,Nuveen Virginia Quality Municipal Income Fund Common Stock,Financial Services,$16.1300,$0.0000,0%,Low Risk,2
+293,CEPU,Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),Utilities,$2.3100,$0.0000,0%,Low Risk,7
+294,SI,Silvergate Capital Corporation Class A Common Stock,Financial Services,$115.6900,$0.0000,0%,Low Risk,4
+295,GCI,Gannett Co. Inc. Common Stock,Communication Services,$5.1500,$0.0000,0%,Low Risk,1
+296,SRV,Cushing MLP & Infrastructure Total Return Fund,Financial Services,$28.9600,$0.0000,0%,Low Risk,4
+297,JPC,Nuveen Preferred & Income Opportunities Fund,Financial Services,$9.7800,$0.0000,0%,Low Risk,2
+298,SNR,New Senior Investment Group Inc. Common Stock,Real Estate,$6.8500,$0.0000,0%,Low Risk,3
+299,BGSX,Build Acquisition Corp. Class A Common Stock,Financial Services,$9.6700,$0.0000,0%,Low Risk,2
+300,AGX,Argan Inc. Common Stock,Industrials,$49.5400,$0.0000,0%,Low Risk,1
+301,ATGE,Adtalem Global Education Inc. Common Stock,Consumer Defensive,$37.6300,$0.0000,0%,Low Risk,0
+302,WCN,Waste Connections Inc. Common Shares,Industrials,$120.6800,$0.0000,0%,Low Risk,0
+303,NIQ,Nuveenn Intermediate Duration Quality Municipal Term Fund Common Shares of Beneficial Interest,Financial Services,$14.7950,$0.0000,0%,Low Risk,2
+304,ENVA,Enova International Inc. Common Stock,Financial Services,$39.1200,$0.0000,0%,Low Risk,8
+305,DESP,Despegar.com Corp. Ordinary Shares,Consumer Cyclical,$14.4200,$0.0000,0%,Low Risk,1
+306,INGR,Ingredion Incorporated Common Stock,Consumer Defensive,$96.7200,$0.0000,0%,Low Risk,0
+307,EVR,Evercore Inc. Class A Common Stock,Financial Services,$147.7000,$0.0000,0%,Low Risk,8
+308,OHI,Omega Healthcare Investors Inc. Common Stock,Real Estate,$37.5100,$0.0000,0%,Low Risk,0
+309,SOR,Source Capital Inc. Common Stock,Financial Services,$45.5200,$0.0000,0%,Low Risk,2
+310,QUAD,Quad Graphics Inc Class A Common Stock,Industrials,$3.4800,$0.0000,0%,Low Risk,3
+311,BOE,Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest,Financial Services,$12.4800,$0.0000,0%,Low Risk,2
+312,PDI,PIMCO Dynamic Income Fund Common Stock,Financial Services,$28.8800,$0.0000,0%,Low Risk,2
+313,WIT,Wipro Limited Common Stock,Technology,$8.0100,$0.0000,0%,Low Risk,3
+314,RFP,Resolute Forest Products Inc. Common Stock,Basic Materials,$16.2300,$0.0000,0%,Low Risk,3
+315,DVN,Devon Energy Corporation Common Stock,Energy,$30.2000,$0.0000,0%,Low Risk,6
+316,LFT,Lument Finance Trust Inc. Common Stock,Real Estate,$3.8400,$0.0000,0%,Low Risk,3
+317,K,Kellogg Company Common Stock,Consumer Defensive,$65.4600,$0.0000,0%,Low Risk,0
+318,SUI,Sun Communities Inc. Common Stock,Real Estate,$168.8700,$0.0000,0%,Low Risk,0
+319,BVN,Buenaventura Mining Company Inc.,Basic Materials,$11.4100,$0.0000,0%,Low Risk,3
+320,HRB,H&R Block Inc. Common Stock,Consumer Cyclical,$24.6100,$0.0000,0%,Low Risk,3
+321,CMCM,Cheetah Mobile Inc. American Depositary Shares each representing 10 Class Ordinary Shares,Technology,$2.4500,$0.0000,0%,Low Risk,7
+322,DFS,Discover Financial Services Common Stock,Financial Services,$120.8800,$0.0000,0%,Low Risk,8
+323,KUKE,Kuke Music Holding Limited American Depositary Shares each representing one Ordinary Share,Communication Services,$6.4600,$0.0000,0%,Low Risk,6
+324,QGEN,Qiagen N.V. Common Shares ,Healthcare,$47.6000,$0.0000,0%,Low Risk,0
+325,CLII,Climate Change Crisis Real Impact I Acquisition Corporation Class A Common Stock,Financial Services,$11.2500,$0.0000,0%,Low Risk,4
+326,PMF,PIMCO Municipal Income Fund Common Stock,Financial Services,$14.8900,$0.0000,0%,Low Risk,5
+327,BLK,BlackRock Inc. Common Stock,Financial Services,$876.9100,$0.0000,0%,Low Risk,8
+328,VMC,Vulcan Materials Company (Holding Company) Common Stock,Basic Materials,$183.6200,$0.0000,0%,Low Risk,1
+329,UWMC,UWM Holdings Corporation Class A Common Stock,Financial Services,$8.9000,$0.0000,0%,Low Risk,2
+330,NTR,Nutrien Ltd. Common Shares,Basic Materials,$63.5000,$0.0000,0%,Low Risk,1
+331,MDC,M.D.C. Holdings Inc. Common Stock,Consumer Cyclical,$57.5900,$0.0000,0%,Low Risk,1
+332,TRNO,Terreno Realty Corporation Common Stock,Real Estate,$64.1200,$0.0000,0%,Low Risk,0
+333,D,Dominion Energy Inc. Common Stock,Utilities,$75.5500,$0.0000,0%,Low Risk,0
+334,KO,Coca-Cola Company (The) Common Stock,Consumer Defensive,$55.2800,$0.0000,0%,Low Risk,0
+335,CLB,Core Laboratories N.V. Common Stock,Energy,$41.4600,$0.0000,0%,Low Risk,6
+336,HNI,HNI Corporation Common Stock,Industrials,$46.6500,$0.0000,0%,Low Risk,0
+337,PKI,PerkinElmer Inc. Common Stock,Healthcare,$141.7600,$0.0000,0%,Low Risk,0
+338,SCVX,SCVX Corp. Class A Ordinary Shares,Financial Services,$9.8800,$0.0000,0%,Low Risk,2
+339,VGII,Virgin Group Acquisition Corp. II Class A Ordinary Shares,Financial Services,$9.8350,$0.0000,0%,Low Risk,2
+340,PPR,Voya Prime Rate Trust Shares of Beneficial Interest,Financial Services,$4.6700,$0.0000,0%,Low Risk,2
+341,SBS,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares),Utilities,$7.5700,$0.0000,0%,Low Risk,7
+342,OVV,Ovintiv Inc. (DE),Energy,$29.1100,$0.0000,0%,Low Risk,6
+343,BFS,Saul Centers Inc. Common Stock,Real Estate,$45.4600,$0.0000,0%,Low Risk,0
+344,BBU,Brookfield Business Partners L.P. Limited Partnership Units ,Industrials,$45.4800,$0.0000,0%,Low Risk,1
+345,IMAX,Imax Corporation Common Stock,Communication Services,$22.2700,$0.0000,0%,Low Risk,6
+346,LGV,Longview Acquisition Corp. II Class A Common Stock,Financial Services,$9.8000,$0.0000,0%,Low Risk,2
+347,IHIT,Invesco High Income 2023 Target Term Fund Common Shares of Beneficial Interest,Financial Services,$9.6200,$0.0000,0%,Low Risk,2
+348,TMX,Terminix Global Holdings Inc. Common Stock,Consumer Cyclical,$49.3800,$0.0000,0%,Low Risk,0
+349,GTY,Getty Realty Corporation Common Stock,Real Estate,$31.7000,$0.0000,0%,Low Risk,3
+350,TLYS,Tilly's Inc. Common Stock,Consumer Cyclical,$14.2300,$0.0000,0%,Low Risk,3
+351,TALO,Talos Energy Inc. Common Stock,Energy,$14.8500,$0.0000,0%,Low Risk,6
+352,SPLP,Steel Partners Holdings LP LTD PARTNERSHIP UNIT,Industrials,$27.2900,$0.0000,0%,Low Risk,3
+353,SD,SandRidge Energy Inc. Common Stock,Energy,$5.6000,$0.0000,0%,Low Risk,1
+354,ADS,Alliance Data Systems Corporation Common Stock,Financial Services,$124.5600,$0.0000,0%,Low Risk,4
+355,AMP,Ameriprise Financial Inc. Common Stock,Financial Services,$262.2800,$0.0000,0%,Low Risk,8
+356,TPX,Tempur Sealy International Inc. Common Stock,Consumer Cyclical,$39.2300,$0.0000,0%,Low Risk,7
+357,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,Communication Services,$32.0400,$0.0000,0%,Low Risk,6
+358,FMN,Federated Hermes Premier Municipal Income Fund,Financial Services,$15.8300,$0.0000,0%,Low Risk,5
+359,JHB,Nuveen Corporate Income November 2021 Target Term Fund,Undefined,$9.4200,$0.0000,0%,Low Risk,3
+360,AEL,American Equity Investment Life Holding Company Common Stock,Financial Services,$31.3500,$0.0000,0%,Low Risk,4
+361,GER,Goldman Sachs MLP Energy Renaissance Fund,Financial Services,$11.6600,$0.0000,0%,Low Risk,4
+362,CX,Cemex S.A.B. de C.V. Sponsored ADR,Basic Materials,$8.8900,$0.0000,0%,Low Risk,3
+363,ORC,Orchid Island Capital Inc. Common Stock,Real Estate,$5.5200,$0.0000,0%,Low Risk,3
+364,CTT,CatchMark Timber Trust Inc. Class A Common Stock,Real Estate,$11.8800,$0.0000,0%,Low Risk,3
+365,MD,Mednax Inc. Common Stock,Healthcare,$32.4400,$0.0000,0%,Low Risk,1
+366,MYTE,MYT Netherlands Parent B.V. American Depositary Shares each representing one Ordinary Share,Consumer Cyclical,$31.9000,$0.0000,0%,Low Risk,6
+367,NEA,Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01,Financial Services,$15.3100,$0.0000,0%,Low Risk,2
+368,MUR,Murphy Oil Corporation Common Stock,Energy,$23.7300,$0.0000,0%,Low Risk,6
+369,SCCO,Southern Copper Corporation Common Stock,Basic Materials,$71.6700,$0.0000,0%,Low Risk,0
+370,CXP,Columbia Property Trust Inc. Common Stock,Real Estate,$17.9800,$0.0000,0%,Low Risk,3
+371,PRLB,Proto Labs Inc. Common stock,Industrials,$89.2000,$0.0000,0%,Low Risk,0
+372,PLOW,Douglas Dynamics Inc. Common Stock,Consumer Cyclical,$44.8800,$0.0000,0%,Low Risk,0
+373,BA,Boeing Company (The) Common Stock,Industrials,$254.7300,$0.0000,0%,Low Risk,6
+374,CAG,ConAgra Brands Inc. Common Stock,Consumer Defensive,$38.1800,$0.0000,0%,Low Risk,0
+375,RCI,Rogers Communication Inc. Common Stock,Communication Services,$51.3900,$0.0000,0%,Low Risk,3
+376,COLD,Americold Realty Trust Common Shares,Real Estate,$38.2000,$0.0000,0%,Low Risk,0
+377,A,Agilent Technologies Inc. Common Stock,Healthcare,$137.2000,$0.0000,0%,Low Risk,0
+378,INVH,Invitation Homes Inc. Common Stock,Real Estate,$36.5600,$0.0000,0%,Low Risk,3
+379,NAD,Nuveen Quality Municipal Income Fund Common Stock,Financial Services,$15.7100,$0.0000,0%,Low Risk,2
+380,AME,AMETEK Inc.,Industrials,$135.7700,$0.0000,0%,Low Risk,0
+381,LII,Lennox International Inc. Common Stock,Industrials,$349.0700,$0.0000,0%,Low Risk,0
+382,PTR,PetroChina Company Limited Common Stock,Energy,$42.4700,$0.0000,0%,Low Risk,6
+383,CTK,CooTek (Cayman) Inc. American Depositary Shares each representing 50 Class A Ordinary Shares,Technology,$2.1900,$0.0000,0%,Low Risk,3
+384,ALG,Alamo Group Inc. Common Stock,Industrials,$156.1500,$0.0000,0%,Low Risk,0
+385,SHLX,Shell Midstream Partners L.P. Common Units representing Limited Partner Interests,Energy,$14.9100,$0.0000,0%,Low Risk,7
+386,CO,Global Cord Blood Corporation Common Stock,Healthcare,$6.1900,$0.0000,0%,Low Risk,7
+387,ITT,ITT Inc. Common Stock ,Industrials,$94.5800,$0.0000,0%,Low Risk,1
+388,PHG,Koninklijke Philips N.V. NY Registry Shares,Healthcare,$56.5800,$0.0000,0%,Low Risk,3
+389,GSQD,G Squared Ascend I Inc. Class A Ordinary Shares,Financial Services,$9.8200,$0.0000,0%,Low Risk,2
+390,LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),Basic Materials,$116.8700,$0.0000,0%,Low Risk,1
+391,CUBE,CubeSmart Common Shares,Real Estate,$44.5100,$0.0000,0%,Low Risk,0
+392,TACA,Trepont Acquisition Corp I Class A Ordinary Shares,Financial Services,$9.8800,$0.0000,0%,Low Risk,2
+393,AROC,Archrock Inc. Common Stock,Energy,$9.4300,$0.0000,0%,Low Risk,7
+394,STL,Sterling Bancorp,Financial Services,$27.0200,$0.0000,0%,Low Risk,2
+395,AGM,Federal Agricultural Mortgage Corporation Common Stock,Financial Services,$102.6000,$0.0000,0%,Low Risk,4
+396,AVA,Avista Corporation Common Stock,Utilities,$45.1900,$0.0000,0%,Low Risk,0
+397,IBM,International Business Machines Corporation Common Stock,Technology,$144.1900,$0.0000,0%,Low Risk,1
+398,UIS,Unisys Corporation New Common Stock,Technology,$25.8800,$0.0000,0%,Low Risk,3
+399,JBGS,JBG SMITH Properties Common Shares ,Real Estate,$33.5800,$0.0000,0%,Low Risk,0
+400,GE,General Electric Company Common Stock,Industrials,$14.1500,$0.0000,0%,Low Risk,7
+401,TRV,The Travelers Companies Inc. Common Stock,Financial Services,$160.8900,$0.0000,0%,Low Risk,8
+402,TWND,Tailwind Acquisition Corp. Class A Common Stock,Financial Services,$9.9100,$0.0000,0%,Low Risk,2
+403,RM,Regional Management Corp. Common Stock,Financial Services,$49.6700,$0.0000,0%,Low Risk,4
+404,VAC,Marriott Vacations Worldwide Corporation Common Stock,Consumer Cyclical,$174.7300,$0.0000,0%,Low Risk,0
+405,NVG,Nuveen AMT-Free Municipal Credit Income Fund ,Financial Services,$17.5200,$0.0000,0%,Low Risk,2
+406,AIO,Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund Common Shares,Undefined,$27.4600,$0.0000,0%,Low Risk,3
+407,DK,Delek US Holdings Inc. Common Stock,Energy,$23.8000,$0.0000,0%,Low Risk,6
+408,CNS,Cohen & Steers Inc Common Stock,Financial Services,$73.7200,$0.0000,0%,Low Risk,8
+409,ECL,Ecolab Inc. Common Stock,Basic Materials,$215.1100,$0.0000,0%,Low Risk,3
+410,BC,Brunswick Corporation Common Stock,Consumer Cyclical,$103.8400,$0.0000,0%,Low Risk,0
+411,USX,U.S. Xpress Enterprises Inc. Class A Common Stock,Industrials,$11.7900,$0.0000,0%,Low Risk,3
+412,SMAR,Smartsheet Inc. Class A Common Stock,Technology,$58.8900,$0.0000,0%,Low Risk,0
+413,UPS,United Parcel Service Inc. Common Stock,Industrials,$213.2900,$0.0000,0%,Low Risk,0
+414,RVT,Royce Value Trust Inc. Common Stock,Financial Services,$19.2300,$0.0000,0%,Low Risk,2
+415,HSY,The Hershey Company Common Stock,Consumer Defensive,$172.6500,$0.0000,0%,Low Risk,0
+416,ODC,Oil-Dri Corporation Of America Common Stock,Basic Materials,$36.7500,$0.0000,0%,Low Risk,1
+417,CLNY,Colony Capital Inc.,Real Estate,$6.9500,$0.0000,0%,Low Risk,3
+418,MMS,Maximus Inc. Common Stock,Industrials,$91.2600,$0.0000,0%,Low Risk,1
+419,EMF,Templeton Emerging Markets Fund Common Stock,Financial Services,$20.2000,$0.0000,0%,Low Risk,2
+420,INFY,Infosys Limited American Depositary Shares,Technology,$19.2700,$0.0000,0%,Low Risk,3
+421,EVG,Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest,Financial Services,$13.1400,$0.0000,0%,Low Risk,2
+422,CMS,CMS Energy Corporation Common Stock,Utilities,$62.3100,$0.0000,0%,Low Risk,0
+423,NSH,NavSight Holdings Inc. Class A Common Stock,Financial Services,$9.9500,$0.0000,0%,Low Risk,5
+424,ERJ,Embraer S.A. Common Stock,Industrials,$13.8500,$0.0000,0%,Low Risk,7
+425,EMR,Emerson Electric Company Common Stock,Industrials,$97.1000,$0.0000,0%,Low Risk,1
+426,LOMA,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS,Basic Materials,$6.9400,$0.0000,0%,Low Risk,3
+427,KSM,DWS Strategic Municipal Income Trust,Financial Services,$12.2600,$0.0000,0%,Low Risk,5
+428,OII,Oceaneering International Inc. Common Stock,Energy,$15.2300,$0.0000,0%,Low Risk,6
+429,JT,Jianpu Technology Inc. American depositary shares,Financial Services,$2.7500,$0.0000,0%,Low Risk,4
+430,SWI,SolarWinds Corporation Common Stock,Technology,$16.3200,$0.0000,0%,Low Risk,0
+431,EPR,EPR Properties Common Stock,Real Estate,$54.9800,$0.0000,0%,Low Risk,0
+432,IPVA,InterPrivate II Acquisition Corp. Class A Common Stock,Financial Services,$9.7500,$0.0000,0%,Low Risk,2
+433,LVS,Las Vegas Sands Corp. Common Stock,Consumer Cyclical,$59.2000,$0.0000,0%,Low Risk,1
+434,GOF,Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest,Financial Services,$20.9900,$0.0000,0%,Low Risk,2
+435,SB,Safe Bulkers Inc Common Stock ($0.001 par value),Industrials,$3.7000,$0.0000,0%,Low Risk,3
+436,CHH,Choice Hotels International Inc. Common Stock,Consumer Cyclical,$119.9900,$0.0000,0%,Low Risk,0
+437,EVTC,Evertec Inc. Common Stock,Technology,$43.5700,$0.0000,0%,Low Risk,0
+438,AM,Antero Midstream Corporation Common Stock,Energy,$10.1300,$0.0000,0%,Low Risk,1
+439,HBB,Hamilton Beach Brands Holding Company Class A Common Stock ,Technology,$25.5700,$0.0000,0%,Low Risk,1
+440,BGS,B&G Foods Inc. B&G Foods Inc. Common Stock,Consumer Defensive,$30.2000,$0.0000,0%,Low Risk,1
+441,TSI,TCW Strategic Income Fund Inc. Common Stock,Financial Services,$5.8400,$0.0000,0%,Low Risk,2
+442,F,Ford Motor Company Common Stock,Consumer Cyclical,$14.8100,$0.0000,0%,Low Risk,7
+443,CTS,CTS Corporation Common Stock,Technology,$39.1200,$0.0000,0%,Low Risk,0
+444,ACM,AECOM Common Stock,Industrials,$64.8100,$0.0000,0%,Low Risk,1
+445,SQ,Square Inc. Class A Common Stock,Technology,$221.9500,$0.0000,0%,Low Risk,0
+446,AFG,American Financial Group Inc. Common Stock,Financial Services,$134.6400,$0.0000,0%,Low Risk,8
+447,EIC,Eagle Point Income Company Inc. Common Stock,Undefined,$15.6200,$0.0000,0%,Low Risk,7
+448,RYAM,Rayonier Advanced Materials Inc. Common Stock,Basic Materials,$7.9500,$0.0000,0%,Low Risk,7
+449,DGNR,Dragoneer Growth Opportunities Corp. Class A Ordinary Shares,Financial Services,$9.9800,$0.0000,0%,Low Risk,2
+450,YAC,Yucaipa Acquisition Corporation Class A Ordinary Shares,Financial Services,$9.7600,$0.0000,0%,Low Risk,2
+451,BIT,BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest,Financial Services,$18.8800,$0.0000,0%,Low Risk,2
+452,OSH,Oak Street Health Inc. Common Stock,Healthcare,$60.5100,$0.0000,0%,Low Risk,0
+453,RAD,Rite Aid Corporation Common Stock,Healthcare,$18.2200,$0.0000,0%,Low Risk,6
+454,WH,Wyndham Hotels & Resorts Inc. Common Stock ,Consumer Cyclical,$76.1000,$0.0000,0%,Low Risk,0
+455,CCL,Carnival Corporation Common Stock,Consumer Cyclical,$30.1500,$0.0000,0%,Low Risk,0
+456,GDO,Western Asset Global Corporate Defined Opportunity Fund Inc. Western Asset Global Corporate Defined Opportunity Fund Inc.,Financial Services,$18.1800,$0.0000,0%,Low Risk,2
+457,PATH,UiPath Inc. Class A Common Stock,Technology,$80.8100,$0.0000,0%,Low Risk,3
+458,WOR,Worthington Industries Inc. Common Stock,Industrials,$68.8000,$0.0000,0%,Low Risk,1
+459,HPX,HPX Corp. Class A Ordinary Shares,Financial Services,$9.7500,$0.0000,0%,Low Risk,2
+460,NMR,Nomura Holdings Inc ADR American Depositary Shares,Financial Services,$5.4900,$0.0000,0%,Low Risk,2
+461,RAMP,LiveRamp Holdings Inc. Common Stock,Technology,$49.4700,$0.0000,0%,Low Risk,0
+462,SAVE,Spirit Airlines Inc. Common Stock,Industrials,$36.9600,$0.0000,0%,Low Risk,1
+463,ABEV,Ambev S.A. American Depositary Shares (Each representing 1 Common Share),Consumer Defensive,$3.6600,$0.0000,0%,Low Risk,3
+464,HMY,Harmony Gold Mining Company Limited,Basic Materials,$5.2600,$0.0000,0%,Low Risk,3
+465,CVE,Cenovus Energy Inc Common Stock,Energy,$8.8700,$0.0000,0%,Low Risk,1
+466,MFL,Blackrock MuniHoldings Investment Quality Fund Common Shares of Beneficial Interest,Financial Services,$14.7200,$0.0000,0%,Low Risk,2
+467,EME,EMCOR Group Inc. Common Stock,Industrials,$127.7500,$0.0000,0%,Low Risk,1
+468,MNR,Monmouth Real Estate Investment Corporation Class A Common Stock,Real Estate,$18.9200,$0.0000,0%,Low Risk,3
+469,BOH,Bank of Hawaii Corporation Common Stock,Financial Services,$89.7500,$0.0000,0%,Low Risk,8
+470,CMA,Comerica Incorporated Common Stock,Financial Services,$79.0100,$0.0000,0%,Low Risk,4
+471,NYT,New York Times Company (The) Common Stock,Communication Services,$43.1500,$0.0000,0%,Low Risk,3
+472,FIX,Comfort Systems USA Inc. Common Stock,Industrials,$84.5300,$0.0000,0%,Low Risk,1
+473,WTI,W&T Offshore Inc. Common Stock,Energy,$4.0700,$0.0000,0%,Low Risk,1
