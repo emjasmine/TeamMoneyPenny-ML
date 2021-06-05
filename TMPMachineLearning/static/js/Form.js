@@ -11,11 +11,15 @@ d3.json(Url).then(stockdata =>
     ****************************************************************/
     function getTickers(anyData)
     {
-        console.log('Function: getTickers')  
+         
         let tickerList = anyData.map(data => 
-            d3.select('#istock')
-            .append('option')
-            .text(data.Ticker))
+            {
+                console.log(data);
+                d3.select('#istock')
+                .append('option')
+                .text(data.Ticker);
+            })
+        
     }
     /****************************************************************
                 Fetch all industries from BERTs Flask app

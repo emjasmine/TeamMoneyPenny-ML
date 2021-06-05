@@ -53,8 +53,7 @@ def select():
     cluster_data = flask_data.loc[flask_data['Clusters'] == stock_cluster[0]]
 
     cluster = cluster_data.to_json(orient='records',indent=4)
-    print("Please work, please")
-    return jsonify(cluster)
+    return cluster
 
 
     

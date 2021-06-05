@@ -22,7 +22,7 @@
     <!-- Input Form Area -->
     <div class="input-form" style="padding-top: 150px">
         <!-- <form action="/ticker_select" method="post"> -->
-        <div>
+        <div id="form" >
             <label for="istock">Your Stock</label>
             <select id="istock" name="istock"></select><br><br>
 
@@ -33,11 +33,11 @@
             <input type="text" id="price" name="price"><br><br>
 
             <label for="low_risk">Low Risk Tolerance</label>
-            <input type="radio" id="low_risk" name="low_risk">
+            <input type="radio" id="low_risk" name="riskTolerance" value="Low Risk" >
             <label for="moderate_risk" style="padding-left: 10px;">Moderate Risk Tolerance</label>
-            <input type="radio" id="moderate_risk" name="moderate_risk">
+            <input type="radio" id="moderate_risk" name="riskTolerance" value="Moderate Risk" >
             <label for="high_risk" style="padding-left: 10px;">High Risk Tolerance</label>
-            <input type="radio" id="high_risk" name="high_risk"><br><br>
+            <input type="radio" id="high_risk" name="riskTolerance" value="High Risk"><br><br>
 
             <button id="submit" type="submit" value="Submit">Submit</button>
             <script src="/static/js/Table.js"></script>
@@ -56,6 +56,7 @@
                     <th>Price</th>
                     <th>Dividend</th>
                     <th>ROI (%)</th>
+                    <th>Risk Level</th>
                 </tr>
             </thead>
             <tbody class="stock-table-body">
