@@ -17,7 +17,7 @@ from . import app
 @app.route('/Flask_table')
 def tickers():
     ########## Read in data file ##########
-    path = 'TMPMachineLearning/static/resources/Flask_table.csv'
+    path = 'TMPMachineLearning/static/resources/BERTs_Flask_table.csv'
     Flask_table = pd.read_csv(path,index_col = False)
     Flask_table = Flask_table.to_json(orient='records', indent=4)
     return Flask_table

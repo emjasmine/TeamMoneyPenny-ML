@@ -219,7 +219,17 @@
       margin-top: 100px;
     }
 
+/* Format for Recommender/BERT page */
+.BERT-intro{
+  background-color: lightgrey;
+  color:  blue;
+  font-weight: bolder;
+  text-align: center;
+}
 
+.BERT-descript{
+  font-size: large;
+}
 
 /* Formating for exploding text */
 /* .explode-text{
