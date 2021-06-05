@@ -11,10 +11,10 @@ d3.json(Url).then(stockdata =>
     ****************************************************************/
     function getTickers(anyData)
     {
-         
-        let tickerList = anyData.map(data => 
+        console.log('Function: getTickers')  
+        let tickerList = ''
+        tickerList = anyData.map(data => 
             {
-                console.log(data);
                 d3.select('#istock')
                 .append('option')
                 .text(data.Ticker);
@@ -26,11 +26,23 @@ d3.json(Url).then(stockdata =>
     ****************************************************************/
     function getIndustry(anyData)
     {
-        console.log('Function: getIndustry')  
-        let tickerList = anyData.map(data => 
+        console.log('Function: getIndustry')
+        // empty the list  
+        let industryList = ''
+        // get list from data
+        industryList = anyData.map(data => data.Industry )
+        let uniqueIndustry = industryList.filter(function(v, i, self)
+        {
+            // It returns the index of the first instance of each value
+            return i == self.indexOf(v);
+        });
+        uniqueIndustry = uniqueIndustry.forEach(element => 
+        {
+            console.log(element)
             d3.select('#industry')
             .append('option')
-            .text(data.Industry))
+            .text(element)
+        });
     }
     /****************************************************************
                     Call Form Tag Functions

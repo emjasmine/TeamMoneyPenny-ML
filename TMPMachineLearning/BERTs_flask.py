@@ -53,20 +53,21 @@ def select():
     cluster_data = flask_data.loc[flask_data['Clusters'] == stock_cluster[0]]
 
     # # Finds cluster tickers with the same industry as the select stock
-    # select_industry = select_stock['Industry'].index.values.tolist()
-    # found_data = cluster_data.loc[cluster_data['Industry'] == select_industry[0]]
+    # select_industry = data['industry']
+    # found_data = cluster_data.loc[cluster_data['Industry'] == select_industry]
 
+    # price_adjust = float(found_data['Price'].replace("$ ",""))
     # # Finds cluster tickers with a price less than or equal to that of the selected stock
-    # select_price = select_stock['Price'].index.values.tolist()
-    # cluster_data = found_data.loc[found_data['Price'] == select_price[0]]
+    # select_price = float(data['price'])
+    # cluster_data = found_data.loc[price_adjust <= select_price]
 
-    # # Finds cluster tickers with the same risk tolerance as the select stock
-    # select_risk = select_stock['Risk'].index.values.tolist()
-    # found_data = cluster_data.loc[cluster_data['Risk'] == select_risk[0]]
+    # # # Finds cluster tickers with the same risk tolerance as the select stock
+    # # select_risk = select_stock['risk_tolerance'].index.values.tolist()
+    # # found_data = cluster_data.loc[cluster_data['Risk'] == select_risk[0]]
 
-    cluster = found_data.to_json(orient='records',indent=4)
+    cluster = cluster_data.to_json(orient='records',indent=4)
     print("Please work, please")
-    return jsonify(cluster)
+    return cluster
 
 
     
